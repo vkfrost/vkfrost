@@ -1,3 +1,6 @@
+<img width="400" height="389" alt="image" src="https://github.com/user-attachments/assets/bbb07fe4-6563-4ec1-9696-248c2ac6f26a" />
+
+
 # Hi, I'm Kfrost 👋
 
 ## Security Engineer | Identify as Staff Security Engineer |

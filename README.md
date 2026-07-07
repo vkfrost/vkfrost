@@ -29,41 +29,47 @@ My work focuses on making security an enabler rather than a blocker by automatin
 
 ## Technologies & Tools
 
-### Cloud & Infrastructure
+Programming: Python · Bash · Java · SQL · YAML · PowerShell · JavaScript
 
-* AWS
-* Kubernetes (EKS)
-* Docker
-* Helm
-* Terraform
-* Linux
+Cloud Platforms: AWS · Azure · Google Cloud Platform (GCP)
 
-### CI/CD
+Containers & Orchestration: Docker · Kubernetes · Amazon EKS · Helm · Kustomize · Docker Compose · NGINX Ingress · Traefik
 
-* GitHub Actions
-* GitLab CI/CD
-* Jenkins
+Infrastructure as Code: Terraform · AWS CloudFormation · Ansible
 
-### Security
+CI/CD & DevOps: Git · GitHub · GitHub Actions · GitLab CI/CD · Jenkins · Argo CD
 
-* Semgrep
-* Trivy
-* OWASP ZAP
-* Gitleaks
-* TruffleHog
-* MobSF
-* SonarQube
-* Snyk
-* Dependency Scanning
-* Secret Detection
+Application Security: Secure SDLC · Threat Modeling · Secure Code Review · OWASP Top 10 · API Security · Authentication & Authorization · Software Composition Analysis (SCA) · SAST · DAST · Interactive Application Security Testing (IAST) · Runtime Application Self-Protection (RASP)
 
-### Languages
+Cloud & Kubernetes Security: Kubernetes Security · Container Security · Network Policies · RBAC · Admission Controllers · Pod Security Standards · Image Security · Runtime Security
 
-* Python
-* Bash
-* Java
-* YAML
-* SQL
+Security Tools: Semgrep · Trivy · OWASP ZAP · Gitleaks · TruffleHog · MobSF · SonarQube · Snyk · Checkmarx · Veracode · Burp Suite · Nmap · Nikto · Nuclei · Nessus · OpenVAS
+
+Infrastructure & IaC Security: Checkov · tfsec · Terrascan · kube-bench · kube-hunter · Kubescape
+
+Supply Chain Security: Syft · Grype · Cosign · Sigstore · SBOM · Dependency Track
+
+Identity & Access Management: OAuth 2.0 · OpenID Connect (OIDC) · JWT · SAML · AWS IAM · HashiCorp Vault · AWS Secrets Manager · PKI · TLS · mTLS
+
+Monitoring & Observability: Prometheus · Grafana · ELK Stack · OpenSearch · Fluent Bit · Loki
+
+Databases: PostgreSQL · MySQL · MariaDB · Microsoft SQL Server · Redis · MongoDB · Cassandra
+
+Networking: DNS · HTTP/HTTPS · TCP/IP · TLS · VPN · Load Balancers · Reverse Proxies · WAF
+
+Operating Systems: Linux · Ubuntu · CentOS · Red Hat Enterprise Linux (RHEL) · macOS · Windows Server
+
+API Development & Testing: REST APIs · GraphQL · OpenAPI · Swagger · Postman · Insomnia
+
+AI & AI Security: OpenAI · Anthropic Claude · Google Gemini · LangChain · Promptfoo · Garak · NVIDIA NeMo Guardrails · OWASP Top 10 for LLM Applications
+
+Automation & Scripting: Python Automation · Bash Scripting · REST APIs · JSON · XML
+
+Version Control & Collaboration: Git · GitHub · GitLab · Jira · ClickUp · Confluence
+
+Development Tools: Visual Studio Code · IntelliJ IDEA · PyCharm · Eclipse · Maven · Gradle
+
+Methodologies: DevSecOps · Agile · Scrum · Security by Design · Zero Trust · Shift Left Security · Security Automation · Continuous Compliance
 
 ---
 

@@ -29,26 +29,20 @@ My work focuses on making security an enabler rather than a blocker by automatin
 
 ## Technologies & Tools
 
-* Programming: Python · Bash · Java · SQL
-* Cloud Platforms: AWS · Azure · Google Cloud Platform (GCP)
-* Containers & Orchestration: Docker · Kubernetes · Amazon EKS · Helm · Kustomize · Docker Compose · NGINX Ingress · Traefik
-* Infrastructure as Code: Terraform · AWS CloudFormation · Ansible
-* CI/CD & DevOps: Git · GitHub · GitHub Actions · GitLab CI/CD  · Argo CD
-* Application Security: Secure SDLC · Threat Modeling · Secure Code Review · OWASP Top 10 · API Security · Authentication & Authorization · Software Composition Analysis (SCA) · SAST · DAST · Interactive Application Security Testing (IAST) · Runtime Application Self-Protection (RASP)
-* Cloud & Kubernetes Security: Kubernetes Security · Container Security · Network Policies · RBAC · Admission Controllers · Pod Security Standards · Image Security · Runtime Security
-* Security Tools: Semgrep · Trivy · OWASP ZAP · Gitleaks · TruffleHog · MobSF · SonarQube · Snyk · Checkmarx · Veracode · Burp Suite · Nmap · Nikto · Nuclei · Nessus · OpenVAS
-* Infrastructure & IaC Security: Checkov · tfsec · Terrascan · kube-bench · kube-hunter · Kubescape
-* Supply Chain Security: Syft · Grype · Cosign · Sigstore · SBOM · Dependency Track
-* Identity & Access Management: OAuth 2.0 · OpenID Connect (OIDC) · JWT · SAML · AWS IAM · HashiCorp Vault · AWS Secrets Manager · PKI · TLS · mTLS
-* Monitoring & Observability: Prometheus · Grafana · ELK Stack · OpenSearch · Fluent Bit · Loki
-* Databases: PostgreSQL · MySQL · MariaDB · Microsoft SQL Server · Redis · MongoDB · Cassandra
-* Networking: DNS · HTTP/HTTPS · TCP/IP · TLS · VPN · Load Balancers · Reverse Proxies · WAF
-* Operating Systems: Linux · Ubuntu · CentOS · Red Hat Enterprise Linux (RHEL) · macOS · Windows Server
-* API Development & Testing: REST APIs · GraphQL · OpenAPI · Swagger · Postman · Insomnia
-* AI & AI Security: OpenAI · Anthropic Claude · Google Gemini · LangChain · Promptfoo · Garak · NVIDIA NeMo Guardrails · OWASP Top 10 for LLM Applications
-* Automation & Scripting: Python Automation · Bash Scripting · REST APIs · JSON · XML
-* Version Control & Collaboration: Git · GitHub · GitLab · Jira · ClickUp · Confluence
-* Methodologies: DevSecOps · Agile · Scrum · Security by Design · Zero Trust · Shift Left Security · Security Automation · Continuous Compliance
+* Programming: Python · Java · Bash · SQL
+* Cloud & Infrastructure: AWS · Azure · GCP · Docker · Kubernetes (EKS) · Terraform · CloudFormation · Ansible
+* DevOps & CI/CD: Git · GitHub · GitHub Actions · GitLab CI/CD · Argo CD · Helm · Kustomize
+* Application Security: Secure SDLC · Threat Modeling · Secure Code Review · OWASP Top 10 · API Security · Authentication & Authorization · SAST · DAST · SCA
+* Cloud & Kubernetes Security: Container Security · Kubernetes Security · RBAC · Network Policies · Admission Controllers · Runtime Security
+* Security Tooling: Semgrep · Trivy · OWASP ZAP · Burp Suite · Gitleaks · TruffleHog · SonarQube · Snyk · Nuclei · Nessus
+* Identity & Secrets: OAuth 2.0 · OIDC · JWT · SAML · AWS IAM · HashiCorp Vault · AWS Secrets Manager · PKI · TLS · mTLSIdentity & Secrets: OAuth 2.0 · OIDC · JWT · SAML · AWS IAM · HashiCorp Vault · AWS Secrets Manager · PKI · TLS · mTLS
+* Supply Chain Security: SBOM · Syft · Grype · Cosign · Sigstore · Dependency-Track
+* Monitoring & Observability: Prometheus · Grafana · ELK Stack · OpenSearch
+* Databases: PostgreSQL · MySQL · MongoDB · Redis · Cassandra
+* Networking: DNS · HTTP/S · TCP/IP · TLS · WAF · Reverse Proxies · Load Balancers
+* API Technologies: REST · GraphQL · OpenAPI · Swagger · Postman
+* AI & AI Security: LangChain · OpenAI · Claude · Gemini · Promptfoo · Garak · NVIDIA NeMo Guardrails · OWASP LLM Top 10
+* Methodologies: DevSecOps · Zero Trust · Security by Design · Shift Left Security · Security Automation · Continuous Compliance · Agile
 
 ---
 

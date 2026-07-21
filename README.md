@@ -3,7 +3,7 @@
 
 # Hi, I'm Kfrost 👋
 
-## Security Engineer | Identify as Staff Security Engineer |
+## Security Engineer
 
 I am a Security Engineer passionate about building secure software, protecting cloud-native platforms, and helping engineering teams integrate security throughout the Software Development Life Cycle (SDLC).
 
